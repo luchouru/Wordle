@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1698347527 source:c:\users\merli\onedrive\escritorio\wordle\main.cpp
+	"String.h"
+	<stdlib.h>
+
+1698346641 source:c:\users\merli\onedrive\escritorio\wordle\string.cpp
+	"String.h"
+
+1698346564 c:\users\merli\onedrive\escritorio\wordle\string.h
+	"Boolean.h"
+	"stdio.h"
+
+1698330286 c:\users\merli\onedrive\escritorio\wordle\boolean.h
+
